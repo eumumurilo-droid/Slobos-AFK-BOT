@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "serverlegal124365.aternos.me",
+    "port": 44759,
     "version": "1.21.1"
   },
   "position": {
@@ -21,7 +21,7 @@
       "enabled": true,
       "password": "Slobos"
     },
-    "anti-afk": {
+    "anti-afk": true
       "enabled": true,
       "sneak": true
     },
